@@ -1,5 +1,9 @@
 # List of Research Paper Repositories
 
+## 2025
+- [Democratizing eye-tracking? Appearance-based gaze estimation with improved attention branch](https://github.com/ragenetresearch/democratizing-eye-tracking-rage-net) 
+
+
 ## 2024
 - [Unmoderated usability studies evolved: Can GPT ask useful follow-up questions?](https://github.com/chatgpt-uxtweak-research/gpt-follow-up-questions) 
 - [Is Mouse Dynamics Information Credible for User Behavior Research? An Empirical Investigation](https://github.com/micemicsresearch/mouse-dynamics-data-credibility) 
