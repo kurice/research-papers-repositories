@@ -1,6 +1,7 @@
 # List of Research Paper Repositories
 
 ## 2025
+- [Systematic Literature Review of Automation and Artificial Intelligence in Usability Issue Detection](https://github.com/ragenetresearch/democratizing-eye-tracking-rage-net) [PREPRINT](https://arxiv.org/abs/2504.01415)
 - [Democratizing eye-tracking? Appearance-based gaze estimation with improved attention branch](https://github.com/ragenetresearch/democratizing-eye-tracking-rage-net) 
 
 
