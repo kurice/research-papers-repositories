@@ -4,7 +4,7 @@
 - [[PREPRINT]](https://arxiv.org/abs/2504.01415) -- [Systematic Literature Review of Automation and Artificial Intelligence in Usability Issue Detection](https://github.com/usability-ai-research/automated-issue-detection)
 - [Democratizing eye-tracking? Appearance-based gaze estimation with improved attention branch](https://github.com/ragenetresearch/democratizing-eye-tracking-rage-net)
 - [Is usability testing valid with prototypes where clickable hotspots are highlighted upon misclick?](https://github.com/hotspot-research/hotspot-highlighting) 
-- [Validationofinformationarchitecture:Cross-methodologicalcomparisonoftreetestingvariantsandprototypeusertesting](https://github.com/treetest-research/information-architecture-validation)
+- [Validation of information architecture: Cross-methodological comparison of tree testing variants and prototype user testing](https://github.com/treetest-research/information-architecture-validation)
 
 ## 2024
 - [Unmoderated usability studies evolved: Can GPT ask useful follow-up questions?](https://github.com/chatgpt-uxtweak-research/gpt-follow-up-questions) 
