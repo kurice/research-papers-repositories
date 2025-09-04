@@ -2,6 +2,7 @@
 
 ## 2025
 
+- [[PREPRINT]](https://arxiv.org/abs/2509.03232) -- [Card Sorting with Fewer Cards and the Same Mental Models? A Re-examination of an Established Practice](https://github.com/cardsort-research/card-sorting-design)
 - [[PREPRINT]](https://arxiv.org/abs/2508.02376) -- [Talking Surveys: How Photorealistic Embodied Conversational Agents Shape Response Quality, Engagement, and Satisfaction](https://github.com/moderated-survey-research/embodied-virtual-moderator)
 - [[PREPRINT]](https://arxiv.org/abs/2504.01415) -- [Systematic Literature Review of Automation and Artificial Intelligence in Usability Issue Detection](https://github.com/usability-ai-research/automated-issue-detection)
 - [Can Behavioral Features Reveal Lying in an Online Personality Questionnaire? The Impact of Mouse Dynamics and Speech](https://github.com/imdsresearch/imds-lies2)
