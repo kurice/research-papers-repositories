@@ -4,7 +4,6 @@
 
 - [Talking Surveys: How Photorealistic Embodied Conversational Agents Shape Response Quality, Engagement, and Satisfaction](https://github.com/moderated-survey-research/embodied-virtual-moderator)
 - [Card Sorting with Fewer Cards and the Same Mental Models? A Re-examination of an Established Practice](https://github.com/cardsort-research/card-sorting-design)
-- 
 
 ## 2025
 
